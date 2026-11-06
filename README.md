@@ -42,6 +42,18 @@ Project documentation, presentation development and prototype demonstration as p
 - Additional training and awareness modules.
 - Further development of the simulation interface.
 
+## Demo Video
+
+Watch the project demonstration:
+
+[AEGISIM – Prototype Demo](https://youtu.be/YdKRWNUE13g?si=djj-STN6wt33v5Hg)
+
+## Live Prototype
+
+Explore the interactive prototype:
+
+[Launch AEGISIM](https://id-preview--7176307e-35ab-4597-8f8c-b53157cabc8f.lovable.app/dashboard?__lovable_receipt=mat_7e4spzdv8j8p3r3axzhgepqn9c)
+
 ## Disclaimer
 
 AEGISIM is an academic simulation prototype intended for educational and defensive awareness purposes. It is not an operational weapon system or a real-world counter-drone deployment solution.
